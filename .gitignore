@@ -1,0 +1,36 @@
+# Arquivos e diretórios do Go
+/bin/
+/pkg/
+/vendor/
+/go.sum
+/go.mod
+
+# Arquivos de compilação
+*.out
+*.exe
+
+# Arquivos de log e saída
+*.log
+*.log.*
+log.txt
+
+# Diretórios de dados temporários
+/data/
+
+# Arquivos e diretórios específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração específicos do projeto (ajuste conforme necessário)
+config.json
+secrets.json
+
+# Diretórios de saída (ajuste conforme necessário)
+/output/
+
+# Arquivos .env
+.env
+
+# Dependências e arquivos gerados por IDEs e editores
+.idea/
+.vscode/
