@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-task-manager-server/api"
+	"github.com/bitmattz/go-task-manager-server/api"
 )
 
 func main() {
